@@ -1,0 +1,10 @@
+
+ID: 101
+Name: Rahul
+Course: MCA
+City: Palanpur
+
+ID: 102
+Name: Priya
+Course: BCA
+City: Surat
